@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+background-color : black;
+
+color: rgb(206, 194, 194);
+right: 50%;
+    bottom: 50%;
+    transform: translate(50%,50%);
+    position: absolute;
+}
